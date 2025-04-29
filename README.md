@@ -57,5 +57,7 @@ Check the `pip/src/demovae` directory for how to use them.
 
 The overview of demovae applied to interventions on modifiable risk factors for AD is shown below:
 
+<img src='https://github.com/aorliche/InterventionVAE/blob/a86418b974afc6566fd34ceff50eddfd173a5341/image/GraphicalAbstract.png' width='800'>
+
 Please <a href='mailto:anton.orlichenko@yale.edu'>contact me</a> for any questions.
 
