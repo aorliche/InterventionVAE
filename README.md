@@ -15,6 +15,8 @@ to install demovae along with basic dependencies (numpy, scikit-learn, and torch
 
 Check the file <a href='https://github.com/aorliche/InterventionVAE/blob/main/test/Pip3TestSample.ipynb'>Pip3TestSample.ipynb</a> for a basic idea of how to run the code.
 
+Also check <a href='https://github.com/aorliche/InterventionVAE/blob/main/notebook/AD/AD2InterventionSimulation.ipynb'>AD2InterventionSimulation</a> for a simulation study with ground truth data.
+
 Check <a href='https://github.com/aorliche/demo-vae/blob/main/pip/src/demovae/sklearn.py'>this file</a> in the pip subdirectory to see all of the configuration parameters you can set, e.g.:
 
 ```
